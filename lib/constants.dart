@@ -6,7 +6,7 @@ const kInactiveCardColour = Color(0xFF00B0FF);
 const kBottomContainerColour = Color(0xFF01579B);
 
 const kLabelTextStyle = TextStyle(
-  fontSize: 18.0,
+  fontSize: 22.0,
   color: Color(0xFF263238),
 );
 
@@ -26,7 +26,7 @@ const kTitleTextStyle = TextStyle(
 );
 
 const kResultTextStyle = TextStyle(
-  color: Color(0xFF24D876),
+  color: Color(0xFFEA89FC),
   fontSize: 22.0,
   fontWeight: FontWeight.bold,
 );
