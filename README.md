@@ -1,5 +1,5 @@
 
-# BMI Calculator 💪
+# BMI Calculator
 
 ## Our Goal
 
@@ -18,3 +18,7 @@ After Customizing in created application , i did that kind of work
 ![Screenshot_20201125_210607](https://user-images.githubusercontent.com/73903186/100252932-4d976500-2f62-11eb-98a8-94d8c65b50f2.jpg)
 ![Screenshot_20201125_210612](https://user-images.githubusercontent.com/73903186/100252924-496b4780-2f62-11eb-9d38-8e487b51e698.jpg)
 
+
+Thanks For visiting my repository
+Keep smiling
+Good Luck
