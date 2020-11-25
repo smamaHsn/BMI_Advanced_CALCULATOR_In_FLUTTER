@@ -149,7 +149,7 @@ class _InputPageState extends State<InputPage> {
                                   });
                                 }),
                             SizedBox(
-                              width: 10.0,
+                              width: 20.0,
                             ),
                             RoundIconButton(
                               icon: FontAwesomeIcons.plus,
@@ -193,7 +193,7 @@ class _InputPageState extends State<InputPage> {
                               },
                             ),
                             SizedBox(
-                              width: 10.0,
+                              width: 20.0,
                             ),
                             RoundIconButton(
                                 icon: FontAwesomeIcons.plus,

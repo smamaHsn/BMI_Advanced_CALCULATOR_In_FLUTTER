@@ -17,7 +17,7 @@ class ResultsPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('BMI CALCULATOR'),
+        title: Text('Here We Go'),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -28,7 +28,7 @@ class ResultsPage extends StatelessWidget {
               padding: EdgeInsets.all(15.0),
               alignment: Alignment.bottomLeft,
               child: Text(
-                'Your Result',
+                'Your Result Is',
                 style: kTitleTextStyle,
               ),
             ),
@@ -59,7 +59,7 @@ class ResultsPage extends StatelessWidget {
             ),
           ),
           BottomButton(
-            buttonTitle: 'RE-CALCULATE',
+            buttonTitle: 'Do U Want to RE-CALCULATE?',
             onTap: () {
               Navigator.pop(context);
             },
